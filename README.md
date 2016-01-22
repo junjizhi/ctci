@@ -1,2 +1,2 @@
 # ctci
-Solutions for "Cracking the Coding Interview v5" in python
+My solutions for "Cracking the Coding Interview v5" in python
